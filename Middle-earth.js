@@ -48,3 +48,6 @@ Output:
   "Battle Result: Evil eradicates all trace of Good" if evil wins, 
   or "Battle Result: No victor on this battle field" if it ends in a tie.
 */
+
+
+// Solution

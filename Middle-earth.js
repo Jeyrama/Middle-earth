@@ -65,3 +65,5 @@ function goodVsEvil(good, evil) {
          result < 0 ? "Battle Result: Evil eradicates all trace of Good" :
                       "Battle Result: No victor on this battle field";
 }
+
+// or
